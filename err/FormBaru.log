@@ -1,0 +1,14 @@
+Line 31: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 38: Class HookMenu.ctxHookMenu of control ctxHookMenu1 was not a loaded control class.
+Line 258: Class isButton3.isButton of control cmSetKeHariIni was not a loaded control class.
+Line 334: Class isButton3.isButton of control cmListTelepon was not a loaded control class.
+Line 362: Class isButton3.isButton of control cmSet was not a loaded control class.
+Line 390: Class isButton3.isButton of control cmHutang was not a loaded control class.
+Line 418: Class isButton3.isButton of control cmTambahRefJumlahPulsaDibeli was not a loaded control class.
+Line 447: Class isButton3.isButton of control cmbTambahRefHargaServer was not a loaded control class.
+Line 476: Class isButton3.isButton of control cmbTambahRefHargaJual was not a loaded control class.
+Line 776: Class XPEngine.XPControl of control XPEngine was not a loaded control class.
+Line 783: Class isButton3.isButton of control cmSimpan was not a loaded control class.
+Line 811: Class isButton3.isButton of control cmVerifikasi was not a loaded control class.
+Line 839: Class isButton3.isButton of control cmReset was not a loaded control class.
+Line 867: Class isButton3.isButton of control cmTutup was not a loaded control class.

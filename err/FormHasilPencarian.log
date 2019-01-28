@@ -1,0 +1,5 @@
+Line 29: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 36: Class XPEngine.XPControl of control XPEngine was not a loaded control class.
+Line 53: Class isButton3.isButton of control cmSimpan was not a loaded control class.
+Line 81: Class isButton3.isButton of control cmCopy was not a loaded control class.
+Line 109: Class isButton3.isButton of control cmTutup was not a loaded control class.

@@ -1,0 +1,124 @@
+Line 30: Class HookMenu.ctxHookMenu of control ctxHookMenu1 was not a loaded control class.
+Line 59: Class MSComctlLib.StatusBar of control StatusBawah was not a loaded control class.
+Line 89: Class XPEngine.XPControl of control XPEngine was not a loaded control class.
+Line 96: Class MSComctlLib.ListView of control LV was not a loaded control class.
+Line 113: Class isButton3.isButton of control cmBaru was not a loaded control class.
+Line 140: Class isButton3.isButton of control cmManage was not a loaded control class.
+Line 167: Class isButton3.isButton of control cmKeluar was not a loaded control class.
+Line 194: Class isButton3.isButton of control cmHirarkiView was not a loaded control class.
+Line 221: Class isButton3.isButton of control cmRefresh was not a loaded control class.
+Line 248: Class isButton3.isButton of control cmTentang was not a loaded control class.
+Line 275: Class isButton3.isButton of control cmPengaturan was not a loaded control class.
+Line 302: Class isButton3.isButton of control cmProperties was not a loaded control class.
+Line 33: The property name _ExtentX in ctxHookMenu1 is invalid.
+Line 34: The property name _ExtentY in ctxHookMenu1 is invalid.
+Line 35: The property name BmpCount in ctxHookMenu1 is invalid.
+Line 36: The property name Bmp:1 in ctxHookMenu1 is invalid.
+Line 37: The property name Key:1 in ctxHookMenu1 is invalid.
+Line 38: The property name Bmp:2 in ctxHookMenu1 is invalid.
+Line 39: The property name Key:2 in ctxHookMenu1 is invalid.
+Line 40: The property name Bmp:3 in ctxHookMenu1 is invalid.
+Line 41: The property name Key:3 in ctxHookMenu1 is invalid.
+Line 42: The property name Bmp:4 in ctxHookMenu1 is invalid.
+Line 43: The property name Key:4 in ctxHookMenu1 is invalid.
+Line 66: The property name _ExtentX in StatusBawah is invalid.
+Line 67: The property name _ExtentY in StatusBawah is invalid.
+Line 68: The property name _Version in StatusBawah is invalid.
+Line 87: The property name Panels in StatusBawah is invalid.
+Line 92: The property name _ExtentX in XPEngine is invalid.
+Line 93: The property name _ExtentY in XPEngine is invalid.
+Line 94: The property name ColorScheme in XPEngine is invalid.
+Line 102: The property name _ExtentX in LV is invalid.
+Line 103: The property name _ExtentY in LV is invalid.
+Line 104: The property name LabelWrap in LV is invalid.
+Line 105: The property name HideSelection in LV is invalid.
+Line 106: The property name _Version in LV is invalid.
+Line 111: The property name NumItems in LV is invalid.
+Line 119: The property name _ExtentX in cmBaru is invalid.
+Line 120: The property name _ExtentY in cmBaru is invalid.
+Line 121: The property name Icon in cmBaru is invalid.
+Line 122: The property name Style in cmBaru is invalid.
+Line 123: The property name Caption in cmBaru is invalid.
+Line 124: The property name IconAlign in cmBaru is invalid.
+Line 125: The property name iNonThemeStyle in cmBaru is invalid.
+Line 126: The property name Tooltiptitle in cmBaru is invalid.
+Line 127: The property name ToolTipIcon in cmBaru is invalid.
+Line 128: The property name ToolTipType in cmBaru is invalid.
+Line 129: The property name ttForeColor in cmBaru is invalid.
+Line 146: The property name _ExtentX in cmManage is invalid.
+Line 147: The property name _ExtentY in cmManage is invalid.
+Line 148: The property name Icon in cmManage is invalid.
+Line 149: The property name Style in cmManage is invalid.
+Line 150: The property name Caption in cmManage is invalid.
+Line 151: The property name IconAlign in cmManage is invalid.
+Line 152: The property name iNonThemeStyle in cmManage is invalid.
+Line 153: The property name Tooltiptitle in cmManage is invalid.
+Line 154: The property name ToolTipIcon in cmManage is invalid.
+Line 155: The property name ToolTipType in cmManage is invalid.
+Line 156: The property name ttForeColor in cmManage is invalid.
+Line 173: The property name _ExtentX in cmKeluar is invalid.
+Line 174: The property name _ExtentY in cmKeluar is invalid.
+Line 175: The property name Icon in cmKeluar is invalid.
+Line 176: The property name Style in cmKeluar is invalid.
+Line 177: The property name Caption in cmKeluar is invalid.
+Line 178: The property name IconAlign in cmKeluar is invalid.
+Line 179: The property name iNonThemeStyle in cmKeluar is invalid.
+Line 180: The property name Tooltiptitle in cmKeluar is invalid.
+Line 181: The property name ToolTipIcon in cmKeluar is invalid.
+Line 182: The property name ToolTipType in cmKeluar is invalid.
+Line 183: The property name ttForeColor in cmKeluar is invalid.
+Line 200: The property name _ExtentX in cmHirarkiView is invalid.
+Line 201: The property name _ExtentY in cmHirarkiView is invalid.
+Line 202: The property name Icon in cmHirarkiView is invalid.
+Line 203: The property name Style in cmHirarkiView is invalid.
+Line 204: The property name Caption in cmHirarkiView is invalid.
+Line 205: The property name IconAlign in cmHirarkiView is invalid.
+Line 206: The property name iNonThemeStyle in cmHirarkiView is invalid.
+Line 207: The property name Tooltiptitle in cmHirarkiView is invalid.
+Line 208: The property name ToolTipIcon in cmHirarkiView is invalid.
+Line 209: The property name ToolTipType in cmHirarkiView is invalid.
+Line 210: The property name ttForeColor in cmHirarkiView is invalid.
+Line 227: The property name _ExtentX in cmRefresh is invalid.
+Line 228: The property name _ExtentY in cmRefresh is invalid.
+Line 229: The property name Icon in cmRefresh is invalid.
+Line 230: The property name Style in cmRefresh is invalid.
+Line 231: The property name Caption in cmRefresh is invalid.
+Line 232: The property name IconAlign in cmRefresh is invalid.
+Line 233: The property name iNonThemeStyle in cmRefresh is invalid.
+Line 234: The property name Tooltiptitle in cmRefresh is invalid.
+Line 235: The property name ToolTipIcon in cmRefresh is invalid.
+Line 236: The property name ToolTipType in cmRefresh is invalid.
+Line 237: The property name ttForeColor in cmRefresh is invalid.
+Line 254: The property name _ExtentX in cmTentang is invalid.
+Line 255: The property name _ExtentY in cmTentang is invalid.
+Line 256: The property name Icon in cmTentang is invalid.
+Line 257: The property name Style in cmTentang is invalid.
+Line 258: The property name Caption in cmTentang is invalid.
+Line 259: The property name IconAlign in cmTentang is invalid.
+Line 260: The property name iNonThemeStyle in cmTentang is invalid.
+Line 261: The property name Tooltiptitle in cmTentang is invalid.
+Line 262: The property name ToolTipIcon in cmTentang is invalid.
+Line 263: The property name ToolTipType in cmTentang is invalid.
+Line 264: The property name ttForeColor in cmTentang is invalid.
+Line 281: The property name _ExtentX in cmPengaturan is invalid.
+Line 282: The property name _ExtentY in cmPengaturan is invalid.
+Line 283: The property name Icon in cmPengaturan is invalid.
+Line 284: The property name Style in cmPengaturan is invalid.
+Line 285: The property name Caption in cmPengaturan is invalid.
+Line 286: The property name IconAlign in cmPengaturan is invalid.
+Line 287: The property name iNonThemeStyle in cmPengaturan is invalid.
+Line 288: The property name Tooltiptitle in cmPengaturan is invalid.
+Line 289: The property name ToolTipIcon in cmPengaturan is invalid.
+Line 290: The property name ToolTipType in cmPengaturan is invalid.
+Line 291: The property name ttForeColor in cmPengaturan is invalid.
+Line 308: The property name _ExtentX in cmProperties is invalid.
+Line 309: The property name _ExtentY in cmProperties is invalid.
+Line 310: The property name Icon in cmProperties is invalid.
+Line 311: The property name Style in cmProperties is invalid.
+Line 312: The property name Caption in cmProperties is invalid.
+Line 313: The property name IconAlign in cmProperties is invalid.
+Line 314: The property name iNonThemeStyle in cmProperties is invalid.
+Line 315: The property name Tooltiptitle in cmProperties is invalid.
+Line 316: The property name ToolTipIcon in cmProperties is invalid.
+Line 317: The property name ToolTipType in cmProperties is invalid.
+Line 318: The property name ttForeColor in cmProperties is invalid.
